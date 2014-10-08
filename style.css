@@ -89,6 +89,7 @@ h1 {
   width: 1012px;
   height: 180px;
   position: relative;
+  top: -30px;
 }
 
 #BeerPic {
