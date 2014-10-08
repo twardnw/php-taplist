@@ -4,26 +4,8 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 
     <?php
-      // set up variables and arrays
-      $beername = array();
-      $style = array();
-      $whobrew = array();
-      $whobrew = array();
-      $abv = array();
-      $hops = array();
-      $srm = array();
-      $status = array();
-      $beernamel = array();
-
-
       // set URL/Paths for csv and recipe pages
       $beersurl = "beers.csv";
-      $tap1fB = "";
-      $tap2fB = "";
-      $tap3fB = "";
-      $tap4fB = "";
-      $tap5fB = "";
-      $tap6fB = "";
 
       // writes csv info into arrays
       $skip = true;
