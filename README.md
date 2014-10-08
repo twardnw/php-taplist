@@ -22,4 +22,4 @@ A definite work-in-progress, configuration is limited at this time. Here are the
  * SRM: 1,5,10,15,20,25,30,36,40 indicating approximate SRM
    - @todo, make this input actual SRM, and color beer/glass accordingly
  * Status: 0,10,25,50,100 indicating approximate percentage of beer left in keg
- * BeerNameL: BeerName,BeerNameL
+ * BeerNameL: BeerName,BeerNameL indicates if beer name should be formatted for a line-break
